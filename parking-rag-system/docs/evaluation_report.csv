@@ -1,0 +1,4 @@
+question,recall_at_k,precision_at_k,latency_sec
+What are the parking prices?,1,0.3333333333333333,0.021976709365844727
+What are the working hours?,1,0.6666666666666666,0.06542277336120605
+How can I reserve parking?,1,0.3333333333333333,0.017302513122558594

@@ -1,0 +1,30 @@
+[
+    {
+        "first_name": "Shoaib",
+        "last_name": "Khan",
+        "verification_type": "Aadhaar",
+        "verification_id": "XXXXXXXX9000",
+        "parking_type": "standard",
+        "car_number": "RR09RR0000",
+        "start_date": "2026-09-09",
+        "end_date": "2026-09-18",
+        "status": "approved",
+        "reservation_id": "RES-2026-0001",
+        "created_at": "2026-05-28 11:57:18.312446",
+        "reviewed_at": "2026-05-28 11:57:34.904112"
+    },
+    {
+        "first_name": "john",
+        "last_name": "mith",
+        "verification_type": "aadhaar",
+        "verification_id": "XXXXXXXX9012",
+        "parking_type": "VIP",
+        "car_number": "YU12UI9090",
+        "start_date": "2026-10-11",
+        "end_date": "2026-10-19",
+        "status": "approved",
+        "reservation_id": "RES-2026-0001",
+        "created_at": "2026-05-29 11:35:48.438002",
+        "reviewed_at": "2026-05-29 11:36:11.360475"
+    }
+]

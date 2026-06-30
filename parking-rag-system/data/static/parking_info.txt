@@ -1,0 +1,37 @@
+Welcome to Smart Parking Center.
+
+Location:
+45 Downtown Avenue, Tech City.
+
+Working Hours:
+Open 24/7.
+
+Parking Types:
+- Standard Parking
+- VIP Parking
+- Electric Vehicle Charging Slots
+
+Reservation Policy:
+Reservations can be made up to 30 days in advance.
+
+Cancellation Policy:
+Reservations may be cancelled up to 2 hours before booking time.
+
+Security:
+24/7 CCTV surveillance and security staff available.
+
+Pricing:
+Standard Parking: $5/hour
+VIP Parking: $10/hour
+EV Charging Slot: $8/hour
+
+Booking Process:
+Users must provide:
+- First Name
+- Last Name
+- Car Number
+- Reservation Start Date
+- Reservation End Date
+
+Contact:
+support@smartparking.ai

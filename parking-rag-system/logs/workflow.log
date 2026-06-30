@@ -1,0 +1,27 @@
+[2026-05-30 13:24:51.350902] User node executed
+[2026-05-30 13:24:51.351903] Reservation node executed
+[2026-05-30 13:24:51.351903] Approval node executed
+[2026-05-30 13:24:54.086748] Reservation approved
+[2026-05-30 13:24:54.087747] MCP node executed
+[2026-05-30 13:24:54.136316] MCP response: {'status': 'duplicate_reservation'}
+[2026-05-30 13:24:54.138317] Storage node executed
+[2026-05-30 13:27:15.102809] User node executed
+[2026-05-30 13:27:15.103808] Reservation node executed
+[2026-05-30 13:27:15.104808] Approval node executed
+[2026-05-30 13:27:37.713918] User node executed
+[2026-05-30 13:27:37.714918] Reservation node executed
+[2026-05-30 13:27:37.716306] Approval node executed
+[2026-05-30 13:27:40.067070] Reservation approved
+[2026-05-30 13:27:40.068966] MCP node executed
+[2026-05-30 13:27:40.096400] MCP response: {'status': 'duplicate_reservation'}
+[2026-05-30 13:27:40.096906] Storage node executed
+[2026-05-30 13:28:04.978203] User node executed
+[2026-05-30 13:28:04.979384] Reservation node executed
+[2026-05-30 13:28:04.980386] Approval node executed
+[2026-05-30 13:28:11.529772] User node executed
+[2026-05-30 13:28:11.531839] Reservation node executed
+[2026-05-30 13:28:11.532927] Approval node executed
+[2026-05-30 13:28:17.267441] Reservation approved
+[2026-05-30 13:28:17.268438] MCP node executed
+[2026-05-30 13:28:17.273650] MCP response: {'status': 'duplicate_reservation'}
+[2026-05-30 13:28:17.274922] Storage node executed
